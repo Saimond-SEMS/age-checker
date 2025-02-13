@@ -1,0 +1,6 @@
+/home/sai/Escritorio/code/cSharp/itla-3-edad/bin/Debug/itla-3-edad.exe
+/home/sai/Escritorio/code/cSharp/itla-3-edad/bin/Debug/itla-3-edad.pdb
+/home/sai/Escritorio/code/cSharp/itla-3-edad/obj/Debug/itla-3-edad.csproj.AssemblyReference.cache
+/home/sai/Escritorio/code/cSharp/itla-3-edad/obj/Debug/itla-3-edad.csproj.CoreCompileInputs.cache
+/home/sai/Escritorio/code/cSharp/itla-3-edad/obj/Debug/itla-3-edad.exe
+/home/sai/Escritorio/code/cSharp/itla-3-edad/obj/Debug/itla-3-edad.pdb

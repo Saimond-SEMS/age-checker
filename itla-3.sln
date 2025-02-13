@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itla-3-edad", "itla-3-edad.csproj", "{C5549973-14DD-4465-896E-5659FFEAF34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itla-3-divisible", "itla-3-divisible\itla-3-divisible.csproj", "{E6F62CEA-3137-4905-8176-8BB5B4B2C25C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itla-3-password", "itla-3-password\itla-3-password.csproj", "{71F47DA4-EAF7-4758-A0F5-B03CAF300E17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5549973-14DD-4465-896E-5659FFEAF34D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C5549973-14DD-4465-896E-5659FFEAF34D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C5549973-14DD-4465-896E-5659FFEAF34D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C5549973-14DD-4465-896E-5659FFEAF34D}.Release|anycpu.Build.0 = Release|anycpu
+		{E6F62CEA-3137-4905-8176-8BB5B4B2C25C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E6F62CEA-3137-4905-8176-8BB5B4B2C25C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E6F62CEA-3137-4905-8176-8BB5B4B2C25C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E6F62CEA-3137-4905-8176-8BB5B4B2C25C}.Release|anycpu.Build.0 = Release|anycpu
+		{71F47DA4-EAF7-4758-A0F5-B03CAF300E17}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{71F47DA4-EAF7-4758-A0F5-B03CAF300E17}.Debug|anycpu.Build.0 = Debug|anycpu
+		{71F47DA4-EAF7-4758-A0F5-B03CAF300E17}.Release|anycpu.ActiveCfg = Release|anycpu
+		{71F47DA4-EAF7-4758-A0F5-B03CAF300E17}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
